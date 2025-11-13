@@ -29,7 +29,7 @@ The aim is to extract business-insights by cleaning, visualising, and summarisin
 
 1. Clone or download this repository.
 
-2. Open the file Sales_Data_Analysis.ipynb in Google Colab or locally in Jupyter if preferred.
+2. Open the file Sales_Data_Analysis.ipynb in Google Colab.
 
 3. Upload or link the dataset (e.g., dataset/Sales_Data.csv) and run the code cells.
 
